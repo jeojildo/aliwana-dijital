@@ -1,0 +1,32 @@
+.col-md-12 h4{
+	text-align: center;
+	font-family: Tahoma;
+}
+hr {
+	width: 300px;
+	border-top: 4px solid #5EE139;
+}
+.bg-light{
+	background-color: #5EE139 !important;
+}
+.menu{
+	background-color: #5EE139;
+}
+.menu a{
+	margin-right: 15px;
+	font-family: Tahoma;
+}
+
+.menu a:hover{
+	border-bottom: 4px solid #135DA3;
+
+}
+.footer p{
+	font-family: Tahoma;
+	color: #135DA3;
+	size: 9pt;
+}
+.footer{
+	margin-top: 10px;
+	margin-bottom: 5px;
+}

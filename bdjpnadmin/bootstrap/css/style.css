@@ -1,0 +1,59 @@
+/* hodi fo kor background ba pajina tomak */
+body{
+	/*background-color: #E7DDF5 !important;*/
+}
+/* hodi fo kor background ba menu*/
+.bg-light{
+	background-color: #5EE139 !important;
+}
+.menu{
+	background-color: #5EE139;
+}
+a.navbar-brand{
+
+}
+/* halo margin-right ba item menu a, transforma ba letra bo'ot */
+.menu a{
+	margin-right: 15px;
+	font-family: Tahoma;
+}
+
+.menu a:hover{
+	border-bottom: 4px solid #135DA3;
+
+}
+/*atu fo kor ba sesaun konteudu*/
+.konteudu{
+	background-color: #fff;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+/* atu halo configurasaun ba col-md-12*/
+.col-md-12 h3{
+	font-family: Tahoma;
+	size: 14pt;
+}
+.col-md-12 p{
+	font-family: Tahoma;
+	size: 12pt;
+	
+}
+
+.col-md-12 {
+	font-family: Tahoma;
+	size: 12pt;	
+}
+
+/* atu fo tipu letra, tamanu, no kor letra ba paragraf iha sesaun footer */
+.footer p{
+	font-family: Tahoma;
+	color: #135DA3;
+	size: 10pt;
+}
+.footer{
+	margin-bottom: 5px;
+}
+.konteudu{
+	margin-bottom: 15px;
+}
